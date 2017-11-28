@@ -1,0 +1,37 @@
+<Enemigos>
+	<Enemigo nombre="Ghost">
+		<vitalidad>10</vitalidad>
+		<ataque>20</ataque>
+		<defensa>5</defensa>
+		<frec_atk>0.5</frec_atk>
+		<exp>10</exp>
+	</Enemigo>
+	<Enemigo nombre="Goblin">
+		<vitalidad>50</vitalidad>
+		<ataque>5</ataque>
+		<defensa>40</defensa>
+		<frec_atk>2</frec_atk>
+		<exp>20</exp>
+	</Enemigo>
+	<Enemigo nombre="Troll">
+		<vitalidad>100</vitalidad>
+		<ataque>200</ataque>
+		<defensa>80</defensa>
+		<frec_atk>5</frec_atk>
+		<exp>100</exp>
+	</Enemigo>
+	<Enemigo nombre="Banshee">
+		<vitalidad>30</vitalidad>
+		<ataque>150</ataque>
+		<defensa>5</defensa>
+		<frec_atk>1.5</frec_atk>
+		<exp>100</exp>
+	</Enemigo>
+  <Enemigo nombre="Prueba">
+    <frec_atk>1.5</frec_atk>
+    <vitalidad>30</vitalidad>
+    <defensa>5</defensa>
+    <exp>100</exp>
+    <ataque>150</ataque>
+  </Enemigo>
+</Enemigos>
